@@ -1,5 +1,5 @@
-Game rules
-description Of the game
+# Game rules
+# description Of the game
 
 this project is for a fun all game experience with speed dashing and wasd and up
 down right left controls
@@ -9,22 +9,22 @@ for fun and entertainment any violence is fictional and the game is not fully
 finished as there are going
 to be more levels coming soon
 
-How to use ?
+# How to use ?
 W or Up-arrow = Jump
 A or right-Arrow = backward movement
 D or left-Arrow = forward movement
 V = Voice recognition (Note : Voice recognition only
 understands “Forward” and “Backward”)
 
-DEMO VIDEO OF PROJECT:-https://drive.google.com/file/d/1N2aDL7ssYx-qX15XHDdCgrYnfbVmPfdk/view?usp=sharing
+# DEMO VIDEO OF PROJECT:-https://drive.google.com/file/d/1N2aDL7ssYx-qX15XHDdCgrYnfbVmPfdk/view?usp=sharing
 
-IMPORTANT READ FIRST BEFORE USE TAMPER
+# IMPORTANT READ FIRST BEFORE USE TAMPER
 Project Info
 Creator name: Joshith Chowdary
 Age : 12
 Published with :Clevered
 
-RULES &amp; GUIDLINES
+# RULES &amp; GUIDLINES
 
 1) Pls Dont copy paste to another project
 
