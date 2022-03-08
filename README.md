@@ -1,4 +1,4 @@
-## This game is unsupported and Wonr be updated
+## This game is unsupported and Wont be updated
 # Game rules
 # description Of the game
 
